@@ -7,6 +7,8 @@ verify_ssl = true
 nose = "*"
 pylint = "*"
 astroid = "*"
+requests = "*"
+flask = "*"
 
 [packages]
 requests = "*"
